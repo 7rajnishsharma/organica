@@ -91,7 +91,7 @@ Contributions to the Organica website are welcome. If you would like to contribu
 ## Glimpse
 Here's a glimpse of the Organica website:
 
-![Web capture_16-7-2023_141840_7rajnishsharma github io](https://github.com/7rajnishsharma/organica/assets/111423734/c8cb6049-594e-4372-b304-64b6162841bc)
+![Web capture_16-7-2023_141840_7rajnishsharma github io](https://github.com/vermaharsha/Docsy/assets/111423734/92819c13-b140-49ed-ae89-c9784831867c)
 
 For a fully interactive experience, please visit [Organica](https://7rajnishsharma.github.io/organica/).
 
