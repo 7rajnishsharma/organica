@@ -1,0 +1,2 @@
+# organica
+ This repository contains the source code and assets for the Organica website. Organica is a platform that aims to connect farmers with consumers, providing fresh and healthy products while promoting sustainable farming practices. The website is designed to provide visitors with an introduction to Organica and navigate them to different sections to explore more about the company and its mission.
